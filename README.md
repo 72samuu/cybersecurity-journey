@@ -4,7 +4,7 @@ Hands-on logbook of my work in cybersecurity, networking and Linux — the tools
 
 I'm **Nabih Mahmoudi**, a 2nd-year Computer Engineering student at the Polytechnic University of Bragança (Portugal), focused on offensive security, networking and Linux internals.
 
-> **🎯 Looking for:** a cybersecurity / security-engineering internship for **summer 2027** — open to Germany, the Netherlands, Switzerland, Luxembourg and Portugal.
+> **🎯 Looking for:** a cybersecurity / security-engineering internship for **summer 2027**.
 
 ---
 
